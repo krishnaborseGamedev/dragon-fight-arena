@@ -3,7 +3,7 @@
 2.5D top-down dragon battle scene built in Unity 6 (C#) for a technical assessment.
 
 ## Play
-Download the Windows build: "  "
+Download the Windows build: " https://github.com/krishnaborseGamedev/dragon-fight-arena/releases/download/v1.0/CubeBallShooter_Build.zip "
 (Unzip it, then run the .exe file.)
 
 ## Features
